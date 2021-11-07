@@ -1,0 +1,21 @@
+{
+    "name": "ahmetbarut/php-exception",
+    "description": "Php simple expception",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AhmetBarut\\Exception\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmet Barut",
+            "email": "ahmetbarut588@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
